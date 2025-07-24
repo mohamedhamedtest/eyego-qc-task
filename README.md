@@ -1,7 +1,6 @@
 # eyego-qc-task
-# Eyego QC Internship Task
 
-## 📌 Manual Testing
+##  Manual Testing
 Manual testing was performed on https://todo.qacart.com including:
 
 - Signup
@@ -14,10 +13,11 @@ Manual testing was performed on https://todo.qacart.com including:
 - Test Cases
 - Bug Reports
 - Test Plan
+- Checklist 
 
 ---
 
-## 🤖 Automation Testing
+##  Automation Testing
 Automation was implemented using **Java + Selenium** on:  
 https://www.saucedemo.com/v1/
 
@@ -39,10 +39,11 @@ https://www.saucedemo.com/v1/
 ---
 
 ## 🛠 Tools Used
+- Excel Sheet
 - Selenium WebDriver
 - Java
 - Maven
-- VS Code / IntelliJ
+- IntelliJ
 - Windows Screen Recorder
 
 ---
