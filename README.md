@@ -33,7 +33,7 @@ https://www.saucedemo.com/v1/
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 [Click to Watch](<Put-GoogleDrive-or-GitHub-Link-Here>)
 
 ---
@@ -48,8 +48,4 @@ https://www.saucedemo.com/v1/
 
 ---
 
-## 📂 How to Run Automation
-```bash
-git clone <repo_url>
-cd automation
-mvn test
+
